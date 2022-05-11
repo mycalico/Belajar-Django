@@ -1,1 +1,2 @@
 # Belajar-Django
+Sofia Ardina
